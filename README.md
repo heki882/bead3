@@ -1,2 +1,0 @@
-# bead3
-Beadandó.
